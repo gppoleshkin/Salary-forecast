@@ -2,6 +2,7 @@
 Forecasting wages in a company using regression with dummy variables
 
 Formula and coefficient values:
+
 ![image](https://github.com/gppoleshkin/Salary-forecast/assets/150899409/e76f6fa8-44ac-49fe-b524-824642f9ad07)
 
 Graph of salaries in the dataset and predicted values
